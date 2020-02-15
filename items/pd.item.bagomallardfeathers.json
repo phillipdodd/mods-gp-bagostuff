@@ -4,6 +4,6 @@
     "desc": "",
     "icon": "bagomallardfeathers",
     "stacksTo": 50,
-    "sell": 0,
+    "sell": 1550,
     "usableType": "UsableLua"
 }

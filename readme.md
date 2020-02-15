@@ -6,7 +6,7 @@
 - [x] Bugs, Bait
 - [x] Delicate fur, Alpaca Fiber, Wool,
 - [x] Feather
-- [ ] Golden Poop
+- [x] Golden Poop
 - [x] Poop
 - [x] Stone
 - [x] Wood
@@ -24,7 +24,7 @@
 
 ## Info
 
-- [ ] Sell Prices
+- [x] Sell Prices
 - [x] Quest Names
 - [x] Item descriptions
 

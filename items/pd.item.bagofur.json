@@ -4,6 +4,6 @@
     "icon": "bagofur",
     "desc": "New meaning to the word 'furbag'",
     "stacksTo": 50,
-    "sell": 2025,
+    "sell": 2050,
     "usableType": "UsableLua"
 }

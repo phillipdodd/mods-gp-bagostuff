@@ -1,14 +1,17 @@
 --* Globals
 
 Bags = {}
-Bags["pd.item.bagobugs"]        = "smallinsects"
-Bags["pd.item.bagocoal"]        = "coal"
-Bags["pd.item.bagofeathers"]    = "feather"
-Bags["pd.item.bagofur"]         = "delicatefur"
-Bags["pd.item.bagogoldenpoo"]   = "goldenpoop"
-Bags["pd.item.bagopoo"]         = "poop"
-Bags["pd.item.bagowool"]        = "wool"
-Bags["pd.item.jarohoney"]       = "honey"
+Bags["pd.item.bagoalpacafiber"]     = "alpacafiber"
+Bags["pd.item.bagobait"]            = "bait_fish"
+Bags["pd.item.bagobugs"]            = "smallinsects"
+Bags["pd.item.bagocoal"]            = "coal"
+Bags["pd.item.bagoduckfeathers"]    = "feather_duck"
+Bags["pd.item.bagomallardfeathers"] = "feather_mallard"
+Bags["pd.item.bagofeathers"]        = "feather"
+Bags["pd.item.bagofur"]             = "delicatefur"
+Bags["pd.item.bagogoldenpoo"]       = "goldenpoop"
+Bags["pd.item.bagopoo"]             = "poop"
+Bags["pd.item.bagowool"]            = "wool"
 
 function OnTemplate()
     self.RegisterListener(Messager.UsableStarted, ApplyUsableListeners)

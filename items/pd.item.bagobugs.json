@@ -4,6 +4,6 @@
     "desc": "They're bugs. In a bag.",
     "icon": "bagobugs",
     "stacksTo": 50,
-    "sell": 275,
+    "sell": 300,
     "usableType": "UsableLua"
 }

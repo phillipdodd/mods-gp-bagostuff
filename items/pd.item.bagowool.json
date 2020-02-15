@@ -3,7 +3,7 @@
     "name": "Bag o' Wool",
     "icon": "bagowool",
     "desc": "A wool inside a wool.",
-    "sell": 1025,
+    "sell": 1050,
     "stacksTo": 50,
     "usableType": "UsableLua"
 }

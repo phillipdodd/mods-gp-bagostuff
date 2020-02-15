@@ -4,6 +4,6 @@
     "icon": "bagocoal",
     "desc": "Who's been naughty?",
     "stacksTo": 50,
-    "sell": 0,
+    "sell": 550,
     "usableType": "UsableLua"
 }

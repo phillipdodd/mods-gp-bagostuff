@@ -4,6 +4,6 @@
     "desc": "",
     "icon": "bagoalpacafiber",
     "stacksTo": 50,
-    "sell": 0,
+    "sell": 3800,
     "usableType": "UsableLua"
 }

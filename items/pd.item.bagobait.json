@@ -4,6 +4,6 @@
     "desc": "",
     "icon": "bagobait",
     "stacksTo": 50,
-    "sell": 0,
+    "sell": 300,
     "usableType": "UsableLua"
 }

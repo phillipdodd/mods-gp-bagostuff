@@ -4,6 +4,6 @@
     "desc": "A bag of feathers, yet not a pillow",
     "icon": "bagofeathers",
     "stacksTo": 50,
-    "sell": 1025,
+    "sell": 1050,
     "usableType": "UsableLua"
 }
