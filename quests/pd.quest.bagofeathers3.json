@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagofeathers3",
+  "relativeToId": "pd.quest.bagofeathers2",
+  "day": 1,
+  "questTitle": "Feathers for Days",
+  "text": "Here you go, a bag of feathers! It's heavier than I thought it would be!\n\nYou can also use Duck Feathers or Mallard Feathers instead, they weigh about the same.",
+  "questType": "talk",
+  "uponCompletion": "Ha, that's exactly what I had in mind! Thanks, Farmer!",
+  "getFrom": "Malu",
+  "deliverTo": "MrJones",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagofeathers: 1, pd.item.bagoduckfeathers: 1, pd.item.bagomallardfeathers: 1",
+  "goldReward": 0,
+  "rewardIcon": "bagofeathers",
+  "rewardText": "Recipe for Bag o Feathers, Duck Feathers, and Mallard Feathers"
+}

@@ -5,7 +5,7 @@
 - [x] Coal
 - [x] Bugs, Bait
 - [x] Delicate fur, Alpaca Fiber, Wool,
-- [ ] Feather
+- [x] Feather
 - [ ] Golden Poop
 - [ ] Poop
 - [ ] Stone
