@@ -1,0 +1,9 @@
+{
+    "id": "pd.item.bagowool",
+    "name": "Bag o' Wool",
+    "icon": "bagowool",
+    "desc": "A wool inside a wool.",
+    "sell": 1025,
+    "stacksTo": 50,
+    "usableType": "UsableLua"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pd.quest.bagocoal4",
+  "relativeToId": "pd.quest.bagocoal3",
+  "day": 1,
+  "questTitle": "To Bag a Bug",
+  "text": "I did it! Here's a giant bag of coal for Mr. Jones. I hope he'll stop bugging all of us each winter now.",
+  "questType": "talk",
+  "uponCompletion": "Thank you, Farmer! That'll last me for a bit.",
+  "getFrom": "Malu",
+  "deliverTo": "MrJones",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagocoal: 1",
+  "seasonSpecific": "",
+  "goldReward": 0,
+  "rewardIcon": "bagocoal",
+  "rewardText": "Recipe for Bag o' Coal"
+}
+

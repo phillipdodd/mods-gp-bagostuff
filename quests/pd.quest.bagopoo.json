@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagobugs",
+  "relativeToId": "gamestart",
+  "day": 0,
+  "questTitle": "To Bag a Bug",
+  "text": "I've recently discovered a neat trick that involves bags and bugs...\n\nI can let you in on it too if you help me out.\n\nI'm going to need 300 small insects for reasons. Good reasons.",
+  "questType": "Collect",
+  "uponCompletion": "Heehee... these are perfect. So here's the thing. If you take some cloth like this...\n\nYou can place the insects INSIDE OF IT!\n\nCool, I know. Here, I'll even give you your very own paper to get started.\n\nWho knows what other things can be put into bags!?",
+  "getFrom": "Frank",
+  "deliverTo": "Frank",
+  "questAsksFor": "smallinsects: 1",
+  "npcShowsUp": true,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "cloth : 1",
+  "goldReward": 0,
+  "rewardIcon": "bagobugs",
+  "rewardText": "Bag o'Bugs Recipe"
+}

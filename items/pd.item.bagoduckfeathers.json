@@ -1,0 +1,9 @@
+{
+    "id": "pd.item.bagoduckfeathers",
+    "name": "Bag o' Duck Feathers",
+    "desc": "",
+    "icon": "bagoduckfeathers",
+    "stacksTo": 50,
+    "sell": 0,
+    "usableType": "UsableLua"
+}

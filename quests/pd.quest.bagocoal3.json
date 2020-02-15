@@ -1,0 +1,21 @@
+{
+  "id": "pd.quest.bagocoal3",
+  "relativeToId": "pd.quest.bagocoal2",
+  "day": 0,
+  "questTitle": "To Bag a Bug",
+  "text": "Could you bring me 10 cloth like before and a stack of coal?",
+  "questType": "collect",
+  "uponCompletion": "Come back tomorrow, I'll work on this tonight!",
+  "getFrom": "Malu",
+  "deliverTo": "Malu",
+  "questAsksFor": "cloth: 10, coal: 50",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "seasonSpecific": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}
+

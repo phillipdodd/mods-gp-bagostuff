@@ -1,0 +1,19 @@
+{
+    "id": "pd.quest.bagobugs3",
+    "relativeToId": "pd.quest.bagobugs2",
+    "day": 1,
+    "questTitle": "To Bag a Bug",
+    "text": "Here you go! A big bag of stinky bugs! McCoy will be so happy!\n\nOh, and here's the recipe so you can bundle them yourself!\n\nBy the way, tell him he might as well make Fish Bait and put that inside a bag, too",
+    "questType": "talk",
+    "uponCompletion": "Oh by Neptune, that's perfect! Thank you!",
+    "getFrom": "Malu",
+    "deliverTo": "McCoy",
+    "questAsksFor": "",
+    "npcShowsUp": false,
+    "repeatable": false,
+    "autotrigger": false,
+    "itemReward": "pd.item.bagobugs",
+    "goldReward": 0,
+    "rewardIcon": "bagobugs",
+    "rewardText": "Bag o' Bugs and Bag o' Fish Bait Recipes"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pd.quest.bagocoal4a",
+  "relativeToId": "pd.quest.bagocoal4",
+  "day": 1,
+  "questTitle": "To Bag a Bug",
+  "text": "Now, can you craft me 200 of these?",
+  "questType": "talk",
+  "uponCompletion": "Hahaha! I can't believe you fell for that again! Here's your reward.",
+  "getFrom": "MrJones",
+  "deliverTo": "MrJones",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "seasonSpecific": "",
+  "goldReward": 200,
+  "rewardIcon": "",
+  "rewardText": ""
+}
+

@@ -1,0 +1,19 @@
+{
+    "id": "pd.quest.bagobugs2",
+    "relativeToId": "pd.quest.bagobugs1",
+    "day": 0,
+    "questTitle": "To Bag a Bug",
+    "text": "Hmm, let me think... I know!\n\nI can sew a big bag to put them in!\n\nCan you get me 10 cloth? Oh, and of course a stack of bugs!",
+    "questType": "collect",
+    "uponCompletion": "Come back tomorrow, I'll work on this tonight!",
+    "getFrom": "Malu",
+    "deliverTo": "Malu",
+    "questAsksFor": "cloth: 10, smallinsects: 50",
+    "npcShowsUp": false,
+    "repeatable": false,
+    "autotrigger": false,
+    "itemReward": "",
+    "goldReward": 0,
+    "rewardIcon": "",
+    "rewardText": ""
+}

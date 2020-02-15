@@ -1,0 +1,9 @@
+{
+    "id": "pd.item.bagofeathers",
+    "name": "Bag o' Feathers",
+    "desc": "A bag of feathers, yet not a pillow",
+    "icon": "bagofeathers",
+    "stacksTo": 50,
+    "sell": 1025,
+    "usableType": "UsableLua"
+}

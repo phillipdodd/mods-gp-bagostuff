@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagofur2",
+  "relativeToId": "pd.quest.bagofur1",
+  "day": 0,
+  "questTitle": "",
+  "text": "I can make a fur bag, sure! Bring me 10 cloth and a stack of Delicate Fur to get started.",
+  "questType": "collect",
+  "uponCompletion": "Give me a bit of time to work on it, I'll have it ready by tomorrow.",
+  "getFrom": "Malue",
+  "deliverTo": "Malu",
+  "questAsksFor": "cloth: 10, delicatefur: 50",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}

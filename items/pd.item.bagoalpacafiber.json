@@ -1,0 +1,9 @@
+{
+    "id": "pd.item.bagoalpacafiber",
+    "name": "Bag o' Alpaca Fiber",
+    "desc": "",
+    "icon": "bagoalpacafiber",
+    "stacksTo": 50,
+    "sell": 0,
+    "usableType": "UsableLua"
+}
