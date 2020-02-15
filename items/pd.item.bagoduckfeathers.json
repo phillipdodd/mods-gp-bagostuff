@@ -1,7 +1,7 @@
 {
     "id": "pd.item.bagoduckfeathers",
     "name": "Bag o' Duck Feathers",
-    "desc": "",
+    "desc": "Full of duck-y goodness.",
     "icon": "bagoduckfeathers",
     "stacksTo": 50,
     "sell": 1550,

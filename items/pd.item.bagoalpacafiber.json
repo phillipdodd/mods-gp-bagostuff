@@ -1,7 +1,7 @@
 {
     "id": "pd.item.bagoalpacafiber",
     "name": "Bag o' Alpaca Fiber",
-    "desc": "",
+    "desc": "It's really alpaca'd in there.",
     "icon": "bagoalpacafiber",
     "stacksTo": 50,
     "sell": 3800,

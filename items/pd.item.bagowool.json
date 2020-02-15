@@ -1,8 +1,8 @@
 {
     "id": "pd.item.bagowool",
     "name": "Bag o' Wool",
+    "desc": "When does 'wool' become 'stuffing'?",
     "icon": "bagowool",
-    "desc": "A wool inside a wool.",
     "sell": 1050,
     "stacksTo": 50,
     "usableType": "UsableLua"

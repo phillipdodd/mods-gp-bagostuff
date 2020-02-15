@@ -1,7 +1,7 @@
 {
     "id": "pd.item.bagomallardfeathers",
     "name": "Bag o' Mallard Feathers",
-    "desc": "",
+    "desc": "A very specific type of feather.",
     "icon": "bagomallardfeathers",
     "stacksTo": 50,
     "sell": 1550,

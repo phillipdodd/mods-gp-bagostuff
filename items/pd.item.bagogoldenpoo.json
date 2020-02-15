@@ -1,8 +1,8 @@
 {
     "id": "pd.item.bagogoldenpoo",
     "name": "Bag o' Golden Poo",
-    "icon": "bagogoldenpoo",
     "desc": "Similar to golden poop, but this poop is in a bag. But not a golden bag.",
+    "icon": "bagogoldenpoo",
     "stacksTo": 50,
     "sell": 7550,
     "usableType": "UsableLua"

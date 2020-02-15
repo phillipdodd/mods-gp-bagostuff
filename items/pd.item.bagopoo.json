@@ -1,8 +1,8 @@
 {
     "id": "pd.item.bagopoo",
     "name": "Bag o' Poo",
-    "icon": "bagopoo",
     "desc": "Similar to regular poo, but this poo is in a bag.",
+    "icon": "bagopoo",
     "stacksTo": 50,
     "sell": 125,
     "usableType": "UsableLua"
