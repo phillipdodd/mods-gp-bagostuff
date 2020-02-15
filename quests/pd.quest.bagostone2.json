@@ -1,0 +1,21 @@
+{
+  "id": "pd.quest.bagostone2",
+  "relativeToId": "pd.quest.bagostone1",
+  "day": 0,
+  "questTitle": "A Hard Place",
+  "text": "Bring me 10 cloth and a stack of Stone and I'll get you your first prototype ready!",
+  "questType": "collect",
+  "uponCompletion": "As always, I can't work on this while I tend to my stall so I'll do it tonight. Come back tomorrow",
+  "getFrom": "Malu",
+  "deliverTo": "Malu",
+  "questAsksFor": "cloth: 10, stone: 50",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "seasonSpecific": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}
+

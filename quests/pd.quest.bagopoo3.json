@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagopoo3",
+  "relativeToId": "pd.quest.bagopoo2",
+  "day": 1,
+  "questTitle": "A Stinky Request",
+  "text": "I had to ask Elizabeth for some nice smelling flowers to recover, but here you go.",
+  "questType": "talk",
+  "uponCompletion": "Oh fantastic, that will look great in my bedroom! Here's a little something for your trouble!",
+  "getFrom": "Malu",
+  "deliverTo": "MrMooney",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagopoo: 1, poop_gold: 3",
+  "goldReward": 0,
+  "rewardIcon": "bagopoo",
+  "rewardText": "Recipe for Bag o' Poo"
+}

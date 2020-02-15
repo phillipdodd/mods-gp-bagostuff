@@ -1,0 +1,21 @@
+{
+  "id": "pd.quest.bagostone3",
+  "relativeToId": "pd.quest.bagostone2",
+  "day": 1,
+  "questTitle": "A Hard Place",
+  "text": "That's one heavy bag. I hope John knows what he's doing.",
+  "questType": "talk",
+  "uponCompletion": "Wow, thanks! I knew you could do it!",
+  "getFrom": "Malu",
+  "deliverTo": "John",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagostone: 1",
+  "seasonSpecific": "",
+  "goldReward": 0,
+  "rewardIcon": "bagostone",
+  "rewardText": "Recipe for Bag o' Stone"
+}
+

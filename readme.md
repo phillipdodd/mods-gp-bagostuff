@@ -7,8 +7,8 @@
 - [x] Delicate fur, Alpaca Fiber, Wool,
 - [x] Feather
 - [ ] Golden Poop
-- [ ] Poop
-- [ ] Stone
+- [x] Poop
+- [x] Stone
 - [x] Wood
 
 ## Items
@@ -19,14 +19,14 @@
 - [x] Feather
 - [x] Golden Poop
 - [x] Poop
-- [ ] Stone
+- [x] Stone
 - [x] Wood
 
 ## Info
 
 - [ ] Sell Prices
-- [ ] Quest Names
-- [ ] Item descriptions
+- [x] Quest Names
+- [x] Item descriptions
 
 
 ```

@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagopoo2",
+  "relativeToId": "pd.quest.bagopoo1",
+  "day": 0,
+  "questTitle": "A Stinky Request",
+  "text": "Fine, if you insist.\n\nBring me 10 cloth and a stack of poop, and I'll get my pair of gloves.",
+  "questType": "collect",
+  "uponCompletion":"Great... I've been looking forward to this...\n\nI'll have it done by tomorrow.",
+  "getFrom": "Malu",
+  "deliverTo": "Malu",
+  "questAsksFor": "cloth: 10, poop: 50",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}
