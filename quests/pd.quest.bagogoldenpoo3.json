@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagogoldenpoo3",
+  "relativeToId": "pd.quest.bagogoldenpoo2",
+  "day": 0,
+  "questTitle": "Poop of a King",
+  "text": "Any luck?",
+  "questType": "collect",
+  "uponCompletion": "That's perfect! I'll just take this... and consider that your donation to the treasury.",
+  "getFrom": "Wilson",
+  "deliverTo": "Wilson",
+  "questAsksFor": "pd.item.bagogoldenpoo: 1",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagogoldenpoo: 1",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}

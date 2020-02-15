@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagogoldenpoo2",
+  "relativeToId": "pd.quest.bagogoldenpoo1",
+  "day": 0,
+  "questTitle": "Poop of a King",
+  "text": "Well?",
+  "questType": "collect",
+  "uponCompletion": "Yay, you did it! Why don't you go tell Mayor Wilson about it?",
+  "getFrom": "Malu",
+  "deliverTo": "Malu",
+  "questAsksFor": "pd.item.bagogoldenpoo: 1",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagogoldenpoo: 1",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}

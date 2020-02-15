@@ -4,5 +4,5 @@
     "craftingCommand": "Bag",
     "craftingMachine": "workbench_crate",
     "base": false,
-    "craftingrequires": "pd.quest.bagopoo"
+    "craftingrequires": "pd.quest.bagogoldenpoo2"
 }
