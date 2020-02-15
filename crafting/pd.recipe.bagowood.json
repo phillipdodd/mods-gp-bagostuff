@@ -1,0 +1,8 @@
+{
+    "id": "pd.item.bagowood",
+    "craftedFrom": "wood: 50, cloth: 1",
+    "craftingCommand": "Bag",
+    "craftingMachine": "workbench_crate",
+    "base": false,
+    "craftingrequires": "pd.quest.bagowood3"
+}

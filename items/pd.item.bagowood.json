@@ -1,0 +1,9 @@
+{
+  "id": "pd.item.bagowood",
+  "name": "Bag o' Wood",
+  "icon": "bagowood",
+  "desc": "How did this much wood fit in here?",
+  "stacksTo": 50,
+  "sell": 0,
+  "usableType": "UsableLua"
+}

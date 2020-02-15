@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagowood2",
+  "relativeToId": "pd.quest.bagowood1",
+  "day": 0,
+  "questTitle": "Too Many Trees",
+  "text": "...\n\nBut bring me 10 cloth and a stack of wood and I'll try!",
+  "questType": "collect",
+  "uponCompletion": "Thanks, I'll be up all night! Come back tomorrow and I'll have my answer!",
+  "getFrom": "Malu",
+  "deliverTo": "Malu",
+  "questAsksFor": "cloth: 10, wood: 50",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}

@@ -9,7 +9,7 @@
 - [ ] Golden Poop
 - [ ] Poop
 - [ ] Stone
-- [ ] Wood
+- [x] Wood
 
 ## Items
 
@@ -20,7 +20,7 @@
 - [x] Golden Poop
 - [x] Poop
 - [ ] Stone
-- [ ] Wood
+- [x] Wood
 
 ## Info
 

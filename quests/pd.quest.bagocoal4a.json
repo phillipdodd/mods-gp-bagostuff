@@ -1,7 +1,7 @@
 {
   "id": "pd.quest.bagocoal4a",
   "relativeToId": "pd.quest.bagocoal4",
-  "day": 1,
+  "day": 0,
   "questTitle": "Preparing for Winter",
   "text": "Now, can you craft me 200 of these?",
   "questType": "talk",

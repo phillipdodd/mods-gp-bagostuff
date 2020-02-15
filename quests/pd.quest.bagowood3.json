@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagowood3",
+  "relativeToId": "pd.quest.bagowood2",
+  "day": 1,
+  "questTitle": "Too Many Trees",
+  "text": "Last night was very productive. I was able to finish on time. Now take this to Bruce.",
+  "questType": "talk",
+  "uponCompletion": "Wow, Malu did a great job on this! Here's a little something for your trouble.",
+  "getFrom": "Malu",
+  "deliverTo": "Bruce",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "pd.item.bagowood: 1",
+  "goldReward": 200,
+  "rewardIcon": "bagowood",
+  "rewardText": "Recipe for Bag o' Wood"
+}

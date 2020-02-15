@@ -1,0 +1,19 @@
+{
+  "id": "pd.quest.bagowood1",
+  "relativeToId": "pd.quest.bagocoal4a",
+  "day": 1,
+  "questTitle": "Too Many Trees",
+  "text": "Farmer! Even with sending you a little of my produce every day, I'm still drowning in wood.\n\nI heard you were able to store materials in bags, do you think wood would fit in?",
+  "questType": "talk",
+  "uponCompletion": "Oof, Bruce's wood is... a weird shape. I'm not sure I'll be able to fit it all in.",
+  "getFrom": "Bruce",
+  "deliverTo": "Malu",
+  "questAsksFor": "",
+  "npcShowsUp": false,
+  "repeatable": false,
+  "autotrigger": false,
+  "itemReward": "",
+  "goldReward": 0,
+  "rewardIcon": "",
+  "rewardText": ""
+}
