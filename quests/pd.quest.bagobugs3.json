@@ -12,7 +12,7 @@
     "npcShowsUp": false,
     "repeatable": false,
     "autotrigger": false,
-    "itemReward": "pd.item.bagobugs",
+    "itemReward": "pd.item.bagobugs: 1",
     "goldReward": 0,
     "rewardIcon": "bagobugs",
     "rewardText": "Bag o' Bugs and Bag o' Fish Bait Recipes"

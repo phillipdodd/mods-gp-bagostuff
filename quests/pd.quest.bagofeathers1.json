@@ -3,7 +3,7 @@
   "relativeToId": "pd.quest.bagocoal4a",
   "day": 1,
   "questTitle": "Feathers for Days",
-  "text": "Farmer, do you have any more of those bags? \n\nI have a bunch of feathers to store, with all these chickens and ducks I have.\n\nCan you talk to Malu again?",
+  "text": "Farmer, do you have any more of those bags?\n\nI have a bunch of feathers to store, with all these chickens and ducks I have.\n\nCan you talk to Malu again?",
   "questType": "talk",
   "uponCompletion": "Oh, a bag for feathers? Do you think it'd be heavier than a bag of Silver Ore?\n\nHaha!",
   "getFrom": "MrJones",
