@@ -2,7 +2,7 @@
   "id": "pd.quest.bagocoal1",
   "relativeToId": "pd.quest.bagobugs3",
   "day": 0,
-  "questTitle": "To Bag a Bug",
+  "questTitle": "Preparing for Winter",
   "text": "Farmer! You know how I ask you for extra coal every winter because I run out?\n\nWell, I'm getting smarter! I want to stock up on coal but I can only fit so much in my barn.\n\nCan you bring 300 Wooden Planks to Frank to expand my barn?",
   "questType": "talk",
   "uponCompletion": "Hahaha! You should see the look on your face! I'm just kidding!\n\nI don't have room to expand my barn.",

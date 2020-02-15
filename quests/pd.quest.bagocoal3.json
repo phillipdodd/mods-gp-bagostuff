@@ -2,7 +2,7 @@
   "id": "pd.quest.bagocoal3",
   "relativeToId": "pd.quest.bagocoal2",
   "day": 0,
-  "questTitle": "To Bag a Bug",
+  "questTitle": "Preparing for Winter",
   "text": "Could you bring me 10 cloth like before and a stack of coal?",
   "questType": "collect",
   "uponCompletion": "Come back tomorrow, I'll work on this tonight!",

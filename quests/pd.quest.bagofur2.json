@@ -2,7 +2,7 @@
   "id": "pd.quest.bagofur2",
   "relativeToId": "pd.quest.bagofur1",
   "day": 0,
-  "questTitle": "",
+  "questTitle": "Fluff Everywhere",
   "text": "I can make a fur bag, sure! Bring me 10 cloth and a stack of Delicate Fur to get started.",
   "questType": "collect",
   "uponCompletion": "Give me a bit of time to work on it, I'll have it ready by tomorrow.",

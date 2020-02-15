@@ -2,7 +2,7 @@
   "id": "pd.quest.bagofur3",
   "relativeToId": "pd.quest.bagofur2",
   "day": 1,
-  "questTitle": "",
+  "questTitle": "Fluff Everywhere",
   "text": "Here you go, a Bag of Delicate Fur!\n\nOh, by the way, I also had some leftover Alpaca Fiber from a previous project.\n\nIt's about the same size so it fits right in. Just use Alpaca Fiber instead of Delicate Fur.\n\nIt probably works for Wool as well. Let me know how that works out!",
   "questType": "talk",
   "uponCompletion": "Wow, thanks! That's exactly what I was looking for!",

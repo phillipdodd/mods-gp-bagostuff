@@ -2,7 +2,7 @@
   "id": "pd.quest.bagofur1",
   "relativeToId": "pd.quest.bagobugs3",
   "day": 0,
-  "questTitle": "",
+  "questTitle": "Fluff Everywhere",
   "text": "Hey there! Man, all these bunnies hopping around make me so happy.\n\nBut they sure drop a lot of fur, though! I can hardly keep up!\n\nHey, I heard you helped out McCoy with some storage issues he was having.\n\nCould you look into a similar solution for my fur? I mean, my rabbits' fur?",
   "questType": "talk",
   "uponCompletion": "Oh, word sure spreads fast in Florens!",

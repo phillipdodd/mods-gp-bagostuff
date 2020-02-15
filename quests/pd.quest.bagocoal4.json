@@ -2,7 +2,7 @@
   "id": "pd.quest.bagocoal4",
   "relativeToId": "pd.quest.bagocoal3",
   "day": 1,
-  "questTitle": "To Bag a Bug",
+  "questTitle": "Preparing for Winter",
   "text": "I did it! Here's a giant bag of coal for Mr. Jones. I hope he'll stop bugging all of us each winter now.",
   "questType": "talk",
   "uponCompletion": "Thank you, Farmer! That'll last me for a bit.",
