@@ -5,7 +5,7 @@
   "questTitle": "Too Many Trees",
   "text": "...\n\nBut bring me 10 cloth, 1 rope and a stack of wood and I'll try!",
   "questType": "collect",
-  "uponCompletion": "Thanks, I'll be up all night! Come back tomorrow and I'll have my answer!",
+  "uponCompletion": "Thanks, I'll be up all night! Come back tomorrow and I'll have my answer.",
   "getFrom": "Malu",
   "deliverTo": "Malu",
   "questAsksFor": "cloth: 10, wood: 50, rope: 1",

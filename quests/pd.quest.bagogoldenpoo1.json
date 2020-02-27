@@ -6,7 +6,7 @@
   "text": "Hey there! Listen um... I heard from Mooney that you were able to help him with his, um, poop problem.\n\nI have a similar issue. I've been collecting a lot of golden poop from donations to the Florens Treasury, and, well...\n\nWhomever said that money stinks definitely hasn't smelled that Treasury. Anyway, I have a LOT of it just piling up and \n\nI'd like some of those fancy bags as well. Can you talk to Malu for me?",
   "questType": "talk",
   "uponCompletion": "What? Are you serious? I'm not doing that again.\n\nIn theory, you should just be able to use golden poop instead of regular poop.\n\nWhy don't you try it yourself?",
-  "getFrom": "Wilson",
+  "getFrom": "Mayor",
   "deliverTo": "Malu",
   "questAsksFor": "",
   "npcShowsUp": false,

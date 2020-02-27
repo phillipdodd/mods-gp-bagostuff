@@ -1,10 +1,10 @@
 {
     "id": "pd.mail.bagogoldenpoo",
-    "relativeToId": "pd.mail.bagogoldenpoo3",
+    "relativeToId": "pd.quest.bagogoldenpoo3",
     "day": 1,
     "from": "A friend",
     "subject": "Bag o' Golden Poo",
-    "letter": "I saw that Wilson took your bag of golden poop without so much as a coin of appreciation, so I've returned it in secret. Please do forgive him! I think the treasury smell had started to get to him...",
+    "letter": "I saw that Wilson took your bag of golden poop without so much as a coin of appreciation, so I've returned it in secret. Please forgive him! I think the treasury smell had started to get to him...",
     "signature": "Thank you!",
-    "items": "pd.items.bagogoldenpoo : 1"
+    "items": "pd.item.bagogoldenpoo : 1"
 }

@@ -6,7 +6,7 @@
   "text": "Instead, though, I heard from McCoy that you helped him with storage for his bugs.\n\nI know coal is a bit bigger, but could you ask Malu if she can help with this one as well?",
   "questType": "talk",
   "uponCompletion": "Sure, I think it's possible...",
-  "getFrom": "MrJones",
+  "getFrom": "Jones",
   "deliverTo": "Malu",
   "questAsksFor": "",
   "npcShowsUp": false,

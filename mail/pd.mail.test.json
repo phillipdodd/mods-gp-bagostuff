@@ -1,0 +1,10 @@
+{
+    "id": "pd.mail.test",
+    "relativeToId": "gamestart",
+    "day": 0,
+    "from": "pdodd",
+    "subject": "Bag o' Stuff Test Kit",
+    "letter": "Go forth and test",
+    "signature": "Thank you!",
+    "items": "pd.item.bagogoldenpoo : 1, cloth: 50, cloth: 10, rope: 7, smallinsects: 50, coal: 50, feather: 50, delicatefur: 50, poop: 50, wood: 50, stone: 50"
+}

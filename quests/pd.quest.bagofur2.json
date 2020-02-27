@@ -6,7 +6,7 @@
   "text": "I can make a fur bag, sure! Bring me 10 cloth, 1 rope and a stack of Delicate Fur to get started.",
   "questType": "collect",
   "uponCompletion": "Give me a bit of time to work on it, I'll have it ready by tomorrow.",
-  "getFrom": "Malue",
+  "getFrom": "Malu",
   "deliverTo": "Malu",
   "questAsksFor": "cloth: 10, delicatefur: 50, rope: 1",
   "npcShowsUp": false,

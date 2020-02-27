@@ -8,12 +8,9 @@
     "uponCompletion": "Come back tomorrow, I'll work on this tonight!",
     "getFrom": "Malu",
     "deliverTo": "Malu",
-    "questAsksFor": "cloth: 10, smallinsects: 50, rope: 1",
+    "questAsksFor": "cloth : 10, smallinsects : 50, rope : 1",
     "npcShowsUp": false,
     "repeatable": false,
     "autotrigger": false,
-    "itemReward": "",
-    "goldReward": 0,
-    "rewardIcon": "",
-    "rewardText": ""
+    "goldReward": 0
 }

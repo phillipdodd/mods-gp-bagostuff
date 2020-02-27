@@ -7,7 +7,7 @@
   "questType": "talk",
   "uponCompletion": "Thank you, Farmer! That'll last me for a bit.",
   "getFrom": "Malu",
-  "deliverTo": "MrJones",
+  "deliverTo": "Jones",
   "questAsksFor": "",
   "npcShowsUp": false,
   "repeatable": false,

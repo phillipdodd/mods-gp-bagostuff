@@ -6,7 +6,7 @@
   "text": "Hey, remember all that poop you gave me?\n\nI've grown attached to it, so I'll need some storage for it.\n\nIt's too much to put into a composting bin so I'd like for you to find a solution, can you do that?",
   "questType": "talk",
   "uponCompletion": "Um... poop? Do I really have to?",
-  "getFrom": "MrMooney",
+  "getFrom": "Mooney",
   "deliverTo": "Malu",
   "questAsksFor": "",
   "npcShowsUp": false,
